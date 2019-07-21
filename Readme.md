@@ -1,7 +1,5 @@
 ## Building a Full Stack Polls app similar to twitter polls with Spring Boot, Spring Security, JWT, React and Ant Design
 
-![App Screenshot](screenshot.png)
-
 ### Tutorials
 
 I've written a complete tutorial series for this application on The CalliCoder Blog -
